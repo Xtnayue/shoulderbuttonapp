@@ -63,4 +63,4 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 ---
 
 ## 📄 License
-MIT License
+This project is licensed under the [GNU General Public License v3.0](LICENSE) (GPLv3).
