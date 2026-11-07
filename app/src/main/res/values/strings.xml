@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">肩键映射器 (ShoulderKey Mapper)</string>
+    <string name="accessibility_service_name">肩键映射无障碍辅助服务</string>
+    <string name="accessibility_service_description">用于在免Root/免ADB基础模式下截获手机肩键/音量键按键事件，并在屏幕对应位置模拟点击手势，以及检测当前前台运行的游戏或应用。</string>
+    <string name="notification_channel_name">肩键映射后台常驻服务</string>
+    <string name="notification_title">肩键映射器运行中</string>
+    <string name="notification_text">正在监听肩键事件并提供屏幕触控映射</string>
+</resources>
